@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>blink</id>
+    <title>blink</title>
+    <version>0.7.0.2014031501</version>
+    <authors>AG Projects B.V.</authors>
+    <owners>Andre-Patrick Bubel</owners>
+    <summary>blink</summary>
+    <description>Blink is the best real-time communications client using SIP protocol. You can use it with many SIP providers, on the LAN using Bonjour and SIP2SIP free service.</description>
+    <projectUrl>http://icanblink.com</projectUrl>
+    <tags>blink sip phone calls telephony softphone</tags>
+    <copyright>AG Projects B.V.</copyright>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes>See http://icanblink.com/changelog-qt.phtml</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
