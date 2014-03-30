@@ -11,9 +11,10 @@
     <projectUrl>http://www.9bis.net/kitty/</projectUrl>
     <tags>PuTTY telnet ssh</tags>
     <copyright>Cyril Dupont</copyright>
-    <licenseUrl>http://www.9bis.net/kitty/?page=Donation</licenseUrl>
+    <licenseUrl>https://raw.githubusercontent.com/Moredread/chocolatey-packages/master/kitty/tools/LICENCE.TXT</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes>See </releaseNotes>
+    <iconUrl>https://raw.githubusercontent.com/Moredread/chocolatey-packages/master/kitty/tools/kitty.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
