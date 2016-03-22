@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>kitty</id>
-    <version>0.63.0.2014033001</version>
+    <version>0.67.0.2</version>
     <title>kitty</title>
     <authors>Cyril Dupont</authors>
     <owners>Andre-Patrick Bubel</owners>
@@ -10,7 +10,7 @@
     <projectUrl>http://www.9bis.net/kitty/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/Moredread/chocolatey-packages/master/kitty/tools/kitty.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>KiTTY is a fork from version 0.63 of PuTTY, the best telnet / SSH client in the world.</description>
+    <description>KiTTY is a fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.</description>
     <summary>kitty</summary>
     <releaseNotes>See http://www.9bis.net/kitty/?action=news</releaseNotes>
     <copyright>Cyril Dupont</copyright>
