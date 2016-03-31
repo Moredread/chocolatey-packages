@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>kitty.portable</id>
+    <version>0.67.0.0</version>
+    <title>[Deprecated] KiTTY (Portable)</title>
+    <authors>Cyril Dupont</authors>
+    <owners>Andre-Patrick Bubel</owners>
+    <licenseUrl>https://cdn.rawgit.com/Moredread/chocolatey-packages/kitty-0.67.0.2/kitty.portable/tools/LICENCE.TXT</licenseUrl>
+    <projectUrl>http://www.9bis.net/kitty/</projectUrl>
+    <packageSourceUrl>https://github.com/Moredread/chocolatey-packages</packageSourceUrl>
+    <projectSourceUrl>http://svn.9bis.com/websvn/listing.php?repname=Sandbox</projectSourceUrl>
+    <docsUrl>http://www.9bis.net/kitty/?page=Welcome</docsUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>KiTTY is a fork of PuTTY, the best telnet / SSH client in the world. KiTTY is now available in the kitty package.</description>
+    <summary>KiTTY is available in the kitty package.</summary>
+    <releaseNotes>See http://www.9bis.net/kitty/?action=news</releaseNotes>
+    <copyright>Cyril Dupont</copyright>
+    <tags>KiTTY PuTTY telnet ssh</tags>
+    <dependencies> 
+        <dependency id="kitty" />
+    </dependencies>    
+  </metadata>
+</package>
