@@ -2,11 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>kitty</id>
-    <version>0.67.3.1</version>
+    <version>0.67.3.3</version>
     <title>KiTTY</title>
     <authors>Cyril Dupont</authors>
     <owners>Andre-Patrick Bubel</owners>
-    <licenseUrl>https://cdn.rawgit.com/Moredread/chocolatey-packages/kitty-0.67.0.2/kitty/tools/LICENCE.TXT</licenseUrl>
+    <licenseUrl>https://cdn.rawgit.com/Moredread/chocolatey-packages/master/kitty/tools/LICENCE.TXT</licenseUrl>
     <projectUrl>http://www.9bis.net/kitty/</projectUrl>
     <packageSourceUrl>https://github.com/Moredread/chocolatey-packages</packageSourceUrl>
     <projectSourceUrl>http://svn.9bis.com/websvn/listing.php?repname=Sandbox</projectSourceUrl>
